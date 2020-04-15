@@ -83,6 +83,24 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 | ```<span>```   | Representa texto sin un significado específico.                       |
 | ```<br>```     | Representa un salto de línea.                                         |
 
+
+<br>
+
+## Textos 
+
+| Elemento       | Descripción                                                                                                                                                             |
+|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ```<img>```    | Representa una imagen.                                                                                                                                                  |
+| ```<iframe>``` | Representa un contexto anidado de navegación, es decir, un documento HTML embebido.                                                                                     |
+| ```<object>``` | Representa un recurso externo, que será tratado como una imagen, un sub-documento HTML o un recurso externo a ser procesado por un plugin.                              |
+| ```<param>```  | Define parámetros para el uso por los plugins invocados por los elementos ```<object>```.                                                                               |
+| ```<video>```  | Representa un video, y sus archivos de audio y capciones asociadas, con la interfaz necesaria para reproducirlos.                                                       |
+| ```<audio>```  | Representa un sonido o stream de audio.                                                                                                                                 |
+| ```<source>``` | Permite a autores especificar recursos multimedia alternativos para los elementos multimedia como ```<video>``` o ```<audio>```.                                        |
+| ```<canvas>``` | Representa un área de mapa de bits  en el que se pueden utilizar scripts para renderizar gráficos como gráficas, gráficas de juegos o cualquier imagen visual al vuelo. |
+| ```<map>```    | En conjunto con ```<area>```, define un mapa de imagen.                                                                                                                 |
+| ```<area>```   | En conjunto con ```<map>```, define un mapa de imagen.                                                                                                                  |
+
 <br><br>
 
 ## Tecnologías Usadas
