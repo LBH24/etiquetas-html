@@ -25,7 +25,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Metadatos del documento
+## Metadatos 
 
 | Elemento      | Descripción                                                                                                                     |
 |---------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -35,6 +35,27 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 | ```<meta>```  | Define los metadatos que no pueden ser definidos usando otro elemento HTML.                                                     |
 | ```<style>``` | Etiqueta de estilo usada para escribir CSS en línea.                                                                            |
 | ```<script>``` | Define ya sea un script interno o un enlace hacia un script externo. El lenguaje de programación es JavaScript.                                                                            |
+
+<br>
+
+## Secciones
+
+| Elemento                            | Descripción                                                                                                                                                                                                                        |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ```<body>```                        | Representa el contenido principal de un documento HTML. Solo hay un elemento de este tipo en un documento.                                                                                                                         |
+| ```<section>```                     | Define una sección en un documento.                                                                                                                                                                                                |
+| ```<nav>```                         | Define una sección que solamente contiene enlaces de navegación                                                                                                                                                                    |
+| ```<article>```                     | Define contenido autónomo que podría existir independientemente del resto del contenido.                                                                                                                                           |
+| ```<aside>```                       | Define algunos contenidos vagamente relacionados con el resto del contenido de la página. Si es removido, el contenido restante seguirá teniendo sentido                                                                           |
+| ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>``` | Los elemento de cabecera  implementan seis niveles de cabeceras de documentos; ```<h1>``` es la de mayor y ```<h6>``` es la de menor importancia. Un elemento de cabecera describe brevemente el tema de la sección que introduce. |
+| ```<header>```                      | Define la cabecera de una página o sección. Usualmente contiene un logotipo, el título del sitio Web y una tabla de navegación de contenidos.                                                                                      |
+| ```<footer>```                      | Define el pie de una página o sección. Usualmente contiene un mensaje de derechos de autoría, algunos enlaces a información legal o direcciones para dar información de retroalimentación.                                         |
+| ```<address>```                     | Define una sección que contiene información de contacto.                                                                                                                                                                           |
+| ```<main>```                        | Define el contenido principal o importante en el documento. Solamente existe un elemento ```<main>``` en el documento.                                                                                                             |
+
+
+
+
 
 <br><br>
 
