@@ -39,8 +39,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 ## Tecnologías Usadas
 
-- Git
-- GitHub
+- HTML5
 
 <br><br>
 
