@@ -34,6 +34,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 | ```<link>```  | Usada para enlazar JavaScript y CSS externos con el documento HTML actual.                                                      |
 | ```<meta>```  | Define los metadatos que no pueden ser definidos usando otro elemento HTML.                                                     |
 | ```<style>``` | Etiqueta de estilo usada para escribir CSS en línea.                                                                            |
+| ```<script>``` | Define ya sea un script interno o un enlace hacia un script externo. El lenguaje de programación es JavaScript.                                                                            |
 
 <br><br>
 
