@@ -20,8 +20,8 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 Define que el documento esta bajo el estandar de HTML 5
 
-| Elemento      | Descripción                                                                                                          |
-|---------------|----------------------------------------------------------------------------------------------------------------------|
+| Elemento             | Descripción                                                                                                          |
+|----------------------|----------------------------------------------------------------------------------------------------------------------|
 |```<html></html> ```  | Representa la raíz de un documento HTML. Todos los demás elementos deben ser descendientes de este elemento. |
 
 <br>
