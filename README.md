@@ -86,7 +86,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Textos 
+## Contenido Incrustado 
 
 | Elemento       | Descripción                                                                                                                                                             |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -100,6 +100,39 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 | ```<canvas>``` | Representa un área de mapa de bits  en el que se pueden utilizar scripts para renderizar gráficos como gráficas, gráficas de juegos o cualquier imagen visual al vuelo. |
 | ```<map>```    | En conjunto con ```<area>```, define un mapa de imagen.                                                                                                                 |
 | ```<area>```   | En conjunto con ```<map>```, define un mapa de imagen.                                                                                                                  |
+
+
+<br>
+
+## Tablas 
+
+| Elemento         | Descripción                                                                          |
+|------------------|--------------------------------------------------------------------------------------|
+| ```<table>```    | Representa datos con más de una dimensión.                                           |
+| ```<caption>```  | Representa el título de una tabla.                                                   |
+| ```<colgroup>``` | Representa un conjunto de una o más columnas de una tabla.                           |
+| ```<col>```      | Representa una columna de una tabla.                                                 |
+| ```<tbody>```    | Representa el bloque de filas que describen los datos concretos de una tabla.        |
+| ```<thead>```    | Representa el bloque de filas que describen las etiquetas de columna de una tabla.   |
+| ```<tfoot>```    | Representa los bloques de filas que describen los resúmenes de columna de una tabla. |
+| ```<tr>```       | Representa una fila de celdas en una tabla.                                          |
+| ```<td>```       | Representa una celda de datos en una tabla.                                          |
+| ```<th>```       | Representa una celda encabezado en una tabla.                                        |
+
+
+<br>
+
+## Formularios
+
+| Elemento         | Descripción                                                                                                 |
+|------------------|-------------------------------------------------------------------------------------------------------------|
+| ```<form>```     | Representa un formulario, consistiendo de controles que puede ser enviado a un servidor para procesamiento. |
+| ```<label>```    | Representa el título de un control de formulario.                                                           |
+| ```<input>```    | Representa un campo de datos escrito que permite al usuario editar los datos.                               |
+| ```<button>```   | Representa un botón.                                                                                        |
+| ```<select>```   | Representa un control que permite la selección entre un conjunto de opciones.                               |
+| ```<option>```   | Representa una opción en un elemento.                                                                       |
+| ```<textarea>``` | Representa un control de edición de texto multilínea.                                                       |
 
 <br><br>
 
