@@ -53,8 +53,19 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 | ```<address>```                     | Define una sección que contiene información de contacto.                                                                                                                                                                           |
 | ```<main>```                        | Define el contenido principal o importante en el documento. Solamente existe un elemento ```<main>``` en el documento.                                                                                                             |
 
+<br>
 
+## Agrupación de Contenido
 
+| Elemento           | Descripción                                                                                    |
+|--------------------|------------------------------------------------------------------------------------------------|
+| ```<p>```          | Define una parte que debe mostrarse como un párrafo.                                           |
+| ```<hr>```         | Representa un quiebre temático entre párrafos de una sección o articulo o cualquier contenido. |
+| ```<blockquote>``` | Representa un contenido citado desde otra fuente.                                              |
+| ```<ol>```         | Define una lista ordenada de artículos.                                                        |
+| ```<ul>```         | Define una lista de artículos sin orden.                                                       |
+| ```<li>```         | Define un artículo de una lista enumerada.                                                     |
+| ```<div>```        | Representa un contenedor genérico sin ningún significado especial.                             |
 
 
 <br><br>
