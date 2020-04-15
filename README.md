@@ -18,20 +18,22 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 ## Elementos Raíz
 
-Define que el documento esta bajo el estandar de HTML 5
-
-| Elemento             | Descripción                                                                                                          |
-|----------------------|----------------------------------------------------------------------------------------------------------------------|
-|```<html></html> ```  | Representa la raíz de un documento HTML. Todos los demás elementos deben ser descendientes de este elemento. |
+| Elemento              | Descripción                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------------------|
+| ```<!DOCTYPE html>``` | Define que el documento esta bajo el estandar de HTML 5.                                                     |
+| ```</html>```         | Representa la raíz de un documento HTML. Todos los demás elementos deben ser descendientes de este elemento. |
 
 <br>
 
-## Git CLONE
+## Metadatos del documento
 
-Clonamos el repositorio de github, gitlab o bitbucket
-```
-	git clone <url>
-```
+| Elemento      | Descripción                                                                                                                                                                                                  |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ```<head>```  | Representa una colección de metadatos acerca del documento, incluyendo enlaces a, o definiciones de, scripts y hojas de estilo.                                                                              |
+| ```<title>``` | Define el título del documento, el cual se muestra en la barra de título del navegador o en las pestañas de página. Solamente puede contener texto y cualquier otra etiqueta contenida no será interpretada. |
+| ```<link>```  | Usada para enlazar JavaScript y CSS externos con el documento HTML actual.                                                                                                                                   |
+| ```<meta>```  | Define los metadatos que no pueden ser definidos usando otro elemento HTML.                                                                                                                                  |
+| ```<style>``` | Etiqueta de estilo usada para escribir CSS en línea.                                                                                                                                                         |
 
 <br><br>
 
