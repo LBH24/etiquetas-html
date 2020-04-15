@@ -46,7 +46,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 | ```<section>```                     | Define una sección en un documento.                                                                                                                                                                                                |
 | ```<nav>```                         | Define una sección que solamente contiene enlaces de navegación                                                                                                                                                                    |
 | ```<article>```                     | Define contenido autónomo que podría existir independientemente del resto del contenido.                                                                                                                                           |
-| ```<aside>```                       | Define algunos contenidos vagamente relacionados con el resto del contenido de la página. Si es removido, el contenido restante seguirá teniendo sentido                                                                           |
+| ```<aside>```                       | Define algunos contenidos vagamente relacionados con el resto del contenido de la página. Suele estar al costado de la seccion general                                                                          |
 | ```<h1>,<h2>,<h3>,<h4>,<h5>,<h6>``` | Los elemento de cabecera  implementan seis niveles de cabeceras de documentos; ```<h1>``` es la de mayor y ```<h6>``` es la de menor importancia. Un elemento de cabecera describe brevemente el tema de la sección que introduce. |
 | ```<header>```                      | Define la cabecera de una página o sección. Usualmente contiene un logotipo, el título del sitio Web y una tabla de navegación de contenidos.                                                                                      |
 | ```<footer>```                      | Define el pie de una página o sección. Usualmente contiene un mensaje de derechos de autoría, algunos enlaces a información legal o direcciones para dar información de retroalimentación.                                         |
@@ -67,6 +67,21 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 | ```<li>```         | Define un artículo de una lista enumerada.                                                     |
 | ```<div>```        | Representa un contenedor genérico sin ningún significado especial.                             |
 
+<br>
+
+## Textos 
+
+| Elemento       | Descripción                                                           |
+|----------------|-----------------------------------------------------------------------|
+| ```<a>```      | Representa un hiperenlace, enlazando a otro recurso.                  |
+| ```<em>```     | Representa un texto enfatizado, como un acento de intensidad cursiva. |
+| ```<strong>``` | Representa un texto especialmente importante en negrita.              |
+| ```<small>```  | Representa textos menos importantes y de un tamaño menor.             |
+| ```<cite>```   | Representa un mensaje o frase representativa.                         |
+| ```<q>```      | Representa una cita textual inline.                                   |
+| ```<var>```    | Representa a una variable.                                            |
+| ```<span>```   | Representa texto sin un significado específico.                       |
+| ```<br>```     | Representa un salto de línea.                                         |
 
 <br><br>
 
