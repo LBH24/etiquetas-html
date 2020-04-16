@@ -19,7 +19,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Elementos Raíz
 
 | Elemento              | Descripción                                                                                                  |
-|-----------------------|--------------------------------------------------------------------------------------------------------------|
+|:---------------------:|--------------------------------------------------------------------------------------------------------------|
 | ```<!DOCTYPE html>``` | Define que el documento esta bajo el estandar de HTML 5.                                                     |
 | ```</html>```         | Representa la raíz de un documento HTML. Todos los demás elementos deben ser descendientes de este elemento. |
 
@@ -28,7 +28,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Metadatos 
 
 | Elemento      | Descripción                                                                                                                     |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------|
+|:-------------:|---------------------------------------------------------------------------------------------------------------------------------|
 | ```<head>```  | Representa una colección de metadatos acerca del documento, incluyendo enlaces a, o definiciones de, scripts y hojas de estilo. |
 | ```<title>``` | Define el título del documento, el cual se muestra en la barra de título del navegador o en las pestañas de página.             |
 | ```<link>```  | Usada para enlazar JavaScript y CSS externos con el documento HTML actual.                                                      |
@@ -41,7 +41,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Secciones
 
 | Elemento                            | Descripción                                                                                                                                                                                                                        |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ```<body>```                        | Representa el contenido principal de un documento HTML. Solo hay un elemento de este tipo en un documento.                                                                                                                         |
 | ```<section>```                     | Define una sección en un documento.                                                                                                                                                                                                |
 | ```<nav>```                         | Define una sección que solamente contiene enlaces de navegación                                                                                                                                                                    |
@@ -58,7 +58,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Agrupación de Contenido
 
 | Elemento           | Descripción                                                                                    |
-|--------------------|------------------------------------------------------------------------------------------------|
+|:------------------:|------------------------------------------------------------------------------------------------|
 | ```<p>```          | Define una parte que debe mostrarse como un párrafo.                                           |
 | ```<hr>```         | Representa un quiebre temático entre párrafos de una sección o articulo o cualquier contenido. |
 | ```<blockquote>``` | Representa un contenido citado desde otra fuente.                                              |
@@ -72,7 +72,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Textos 
 
 | Elemento       | Descripción                                                           |
-|----------------|-----------------------------------------------------------------------|
+|:--------------:|-----------------------------------------------------------------------|
 | ```<a>```      | Representa un hiperenlace, enlazando a otro recurso.                  |
 | ```<em>```     | Representa un texto enfatizado, como un acento de intensidad cursiva. |
 | ```<strong>``` | Representa un texto especialmente importante en negrita.              |
@@ -89,7 +89,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Contenido Incrustado 
 
 | Elemento       | Descripción                                                                                                                                                             |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ```<img>```    | Representa una imagen.                                                                                                                                                  |
 | ```<iframe>``` | Representa un contexto anidado de navegación, es decir, un documento HTML embebido.                                                                                     |
 | ```<object>``` | Representa un recurso externo, que será tratado como una imagen, un sub-documento HTML o un recurso externo a ser procesado por un plugin.                              |
@@ -107,7 +107,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Tablas 
 
 | Elemento         | Descripción                                                                          |
-|------------------|--------------------------------------------------------------------------------------|
+|:----------------:|--------------------------------------------------------------------------------------|
 | ```<table>```    | Representa datos con más de una dimensión.                                           |
 | ```<caption>```  | Representa el título de una tabla.                                                   |
 | ```<colgroup>``` | Representa un conjunto de una o más columnas de una tabla.                           |
@@ -125,7 +125,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 ## Formularios
 
 | Elemento         | Descripción                                                                                                 |
-|------------------|-------------------------------------------------------------------------------------------------------------|
+|:----------------:|-------------------------------------------------------------------------------------------------------------|
 | ```<form>```     | Representa un formulario, consistiendo de controles que puede ser enviado a un servidor para procesamiento. |
 | ```<label>```    | Representa el título de un control de formulario.                                                           |
 | ```<input>```    | Representa un campo de datos escrito que permite al usuario editar los datos.                               |
