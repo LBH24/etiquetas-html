@@ -1,22 +1,14 @@
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logov.png?raw=true" width="150"></p>
-
-<p align="center">
-Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libertad, siempre teniendo el mayor respeto por los autores que desarrollaron el proyecto.
-</p>
-
-<br>
-
 # Etiquetas de HTML 5
 
 <br>
 
-## ¿Qué es HTML?
+## ¿Qué es HTML? 🚀
 
-HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o esqueleto de una pagina web, son las condiciones que va seguir la página web de cómo va estar diseñada. Esta tecnología es estándar a nivel mundial, ya que todos tenemos que trabajar sobre este marco de reglas para mostrar una página web en internet.
+_HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o esqueleto de una pagina web, son las condiciones que va seguir la página web de cómo va estar diseñada. Esta tecnología es estándar a nivel mundial, ya que todos tenemos que trabajar sobre este marco de reglas para mostrar una página web en internet._
 
 <br>
 
-## Elementos Raíz
+## Elementos Raíz 🌱
 
 | Elemento              | Descripción                                                                                                  |
 |:---------------------:|--------------------------------------------------------------------------------------------------------------|
@@ -25,7 +17,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Metadatos 
+## Metadatos ☄
 
 | Elemento      | Descripción                                                                                                                     |
 |:-------------:|---------------------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +30,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Secciones
+## Secciones 📚
 
 | Elemento                            | Descripción                                                                                                                                                                                                                        |
 |:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,7 +47,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Agrupación de Contenido
+## Agrupación de Contenido ✨
 
 | Elemento           | Descripción                                                                                    |
 |:------------------:|------------------------------------------------------------------------------------------------|
@@ -69,7 +61,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Textos 
+## Textos 🔠
 
 | Elemento       | Descripción                                                           |
 |:--------------:|-----------------------------------------------------------------------|
@@ -86,7 +78,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Contenido Incrustado 
+## Contenido Incrustado 🖼
 
 | Elemento       | Descripción                                                                                                                                                             |
 |:----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -104,7 +96,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Tablas 
+## Tablas 📋
 
 | Elemento         | Descripción                                                                          |
 |:----------------:|--------------------------------------------------------------------------------------|
@@ -122,7 +114,7 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br>
 
-## Formularios
+## Formularios 📑
 
 | Elemento         | Descripción                                                                                                 |
 |:----------------:|-------------------------------------------------------------------------------------------------------------|
@@ -136,25 +128,25 @@ HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o e
 
 <br><br>
 
-## Tecnologías Usadas
+## Construido con 🛠️
 
-- HTML5
+_Para el desarrollo de este proyecto se utilizaron las siguientes tecnologías:_
 
-<br><br>
+* [HTML 5](https://es.wikipedia.org/wiki/HTML) - Maquetación y estructura web.
 
-## Autor
+<br>
 
-<p align="center"><img src="https://github.com/romerojoseing/archivos/blob/master/img/logoh.png?raw=true" width="200"></p>
+## Autor ✒️
 
-<p align="center">
-  Si te gusto el proyecto sígueme y dame apoyo para seguir creando más contenido.
-</p>
+_Si te gusta lo que hago, visita mi web y comparte mi contenido, también puedes seguirme en mis redes para estar al tanto de nuevas publicaciones y proyectos interesantes que estaré desarrollando._
 
-<p align="center">
-  <a target="_blank" href="https://romerojose.com/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/web.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.linkedin.com/in/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/linkedin.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://github.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/github.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.instagram.com/romerojoseing/"><img src="https://github.com/romerojoseing/archivos/blob/master/img/instagram.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://www.facebook.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/facebook.png?raw=true" height="20"></a> - 
-  <a target="_blank" href="https://twitter.com/romerojoseing"><img src="https://github.com/romerojoseing/archivos/blob/master/img/twitter.png?raw=true" height="20"></a>
-</p>
+Diseñado con ❤️ por [Romero José](https://romerojose.com/)
+
+### Redes Sociales
+
+* **GitHub** - *Repositorios de mis últimos proyectos* - [romerojoseing](https://github.com/romerojoseing)
+* **CodePen** - *Mini proyectos y pruebas interesantes* - [romerojoseing](https://codepen.io/romerojoseing)
+* **LinkedIn** - *Perfil desarrollador profesional* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
+* **Instagram** - *Documentando mi viaje* - [romerojoseing](https://www.instagram.com/romerojoseing/)
+* **Facebook** - *Publicaciones y contenido promocional* - [romerojoseing](https://www.facebook.com/romerojoseing)
+* **Twitter** - *Comentarios random y más* - [romerojoseing](https://twitter.com/romerojoseing)
